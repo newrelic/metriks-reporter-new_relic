@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Metriks::Reporter::NewRelic::VERSION
   spec.authors       = ["Jon Guymon"]
   spec.email         = ["jon@newrelic.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{Allows metric data collected by with the Metriks gem to be reported to your New Relic account via a running New Relic Ruby agent.}
+  spec.summary       = %q{Metriks Reporter for New Relic.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
