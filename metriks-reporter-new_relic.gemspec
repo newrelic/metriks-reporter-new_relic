@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["jon@newrelic.com"]
   spec.description   = %q{Allows metric data collected by with the Metriks gem to be reported to your New Relic account via a running New Relic Ruby agent.}
   spec.summary       = %q{Metriks Reporter for New Relic.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/newrelic/metriks-reporter-new_relic"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
